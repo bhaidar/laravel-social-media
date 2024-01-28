@@ -8,7 +8,6 @@ const props = defineProps({
         type: [Array, Boolean],
         required: true
     },
-    // eslint-disable-next-line vue/require-prop-types
     value: {
         default: null
     }
